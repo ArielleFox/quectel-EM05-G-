@@ -6,3 +6,7 @@ A Very "JUST WORK" ---> "Quectel EM05-G LINUX RUN SCRIPT"
 3. '''sudo ./modem.sh'''
 
 4. edit.: Beerlicenced Script.... Have fun UwU 
+
+
+--Update--v1.2--
+Removed the dependecie of an Makefile by optimizing the script.
