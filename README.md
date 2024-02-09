@@ -1,4 +1,4 @@
-# quectel-EM05-G-
+# quectel-EM05-G / Mermaid Hack
 A Very "JUST WORK" ---> "Quectel EM05-G LINUX RUN SCRIPT" 
 
 1. Download this Repo 
